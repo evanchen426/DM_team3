@@ -13,9 +13,8 @@
 ### How to run:
 ```python
 1.  pip install -r requirements.txt
-```
-```python
-2.  python FGC_modified.py
+2.  cd src
+3.  python FGC_modified.py
 ```
 
 ### Result:
